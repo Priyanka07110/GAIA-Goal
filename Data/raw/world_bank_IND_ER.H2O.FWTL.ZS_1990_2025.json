@@ -1,0 +1,628 @@
+{
+  "retrieved_at": "2026-09-07T17:38:45.239788+00:00",
+  "request_url": "https://api.worldbank.org/v2/country/IND/indicator/ER.H2O.FWTL.ZS?format=json&source=2&date=1990%3A2025&per_page=1000",
+  "metadata_url": "https://api.worldbank.org/v2/indicator/ER.H2O.FWTL.ZS?format=json&source=2&per_page=1000",
+  "data": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1000,
+      "total": 36,
+      "sourceid": "2",
+      "lastupdated": "2026-07-13"
+    },
+    [
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2024",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2023",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2022",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2021",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2020",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2019",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2018",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2017",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2016",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2015",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2014",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2013",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2012",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2011",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2010",
+        "value": 44.7786998616874,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2009",
+        "value": 44.5221265560166,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2008",
+        "value": 44.2655532503458,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2007",
+        "value": 44.008979944675,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2006",
+        "value": 43.7524066390041,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2005",
+        "value": 43.4958333333333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2004",
+        "value": 43.2392600276625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2003",
+        "value": 45.3374460580913,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2002",
+        "value": 44.2959529737206,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2001",
+        "value": 43.2544598893499,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2000",
+        "value": 42.2129668049793,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1999",
+        "value": 41.4494847856155,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1998",
+        "value": 40.6859958506224,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1997",
+        "value": 39.922520746888,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1996",
+        "value": 39.1590387275242,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1995",
+        "value": 38.3955567081604,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1994",
+        "value": 37.6320746887967,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1993",
+        "value": 36.8685926694329,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1992",
+        "value": 36.1051106500692,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1991",
+        "value": 35.3416286307054,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "ER.H2O.FWTL.ZS",
+          "value": "Annual freshwater withdrawals, total (% of internal resources)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1990",
+        "value": 34.5781466113416,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  ],
+  "metadata": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": "1000",
+      "total": 1
+    },
+    [
+      {
+        "id": "ER.H2O.FWTL.ZS",
+        "name": "Annual freshwater withdrawals, total (% of internal resources)",
+        "unit": "",
+        "source": {
+          "id": "2",
+          "value": "World Development Indicators"
+        },
+        "sourceNote": "Annual freshwater withdrawals refer to total water withdrawals, not counting evaporation losses from storage basins. Withdrawals also include water from desalination plants in countries where they are a significant source. Withdrawals can exceed 100 percent of total renewable resources where extraction from nonrenewable aquifers or desalination plants is considerable or where there is significant water reuse. Withdrawals for agriculture and industry are total withdrawals for irrigation and livestock production and for direct industrial use (including withdrawals for cooling thermoelectric plants). Withdrawals for domestic uses include drinking water, municipal use or supply, and use for public services, commercial establishments, and homes. Data are for the most recent year available for 1987-2002.",
+        "sourceOrganization": "AQUASTAT - FAO's Global Information System on Water and Agriculture, Food and Agriculture Organization of the United Nations (FAO), uri: https://data.apps.fao.org/aquastat/, publisher: Food and Agriculture Organization of the United Nations (FAO), date accessed: 20240529",
+        "topics": [
+          {
+            "id": "19",
+            "value": "Climate Change"
+          },
+          {
+            "id": "9",
+            "value": "Infrastructure "
+          },
+          {
+            "id": "6",
+            "value": "Environment "
+          }
+        ]
+      }
+    ]
+  ]
+}

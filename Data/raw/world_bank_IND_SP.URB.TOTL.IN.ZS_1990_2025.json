@@ -1,0 +1,624 @@
+{
+  "retrieved_at": "2026-09-07T17:38:56.199642+00:00",
+  "request_url": "https://api.worldbank.org/v2/country/IND/indicator/SP.URB.TOTL.IN.ZS?format=json&source=2&date=1990%3A2025&per_page=1000",
+  "metadata_url": "https://api.worldbank.org/v2/indicator/SP.URB.TOTL.IN.ZS?format=json&source=2&per_page=1000",
+  "data": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1000,
+      "total": 36,
+      "sourceid": "2",
+      "lastupdated": "2026-07-13"
+    },
+    [
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2025",
+        "value": 35.689155772396,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2024",
+        "value": 35.3788972368389,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2023",
+        "value": 35.0676918424186,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2022",
+        "value": 34.7555673994206,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2021",
+        "value": 34.4425517181304,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2020",
+        "value": 34.1286726088333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2019",
+        "value": 33.8139578818147,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2018",
+        "value": 33.4984353473598,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2017",
+        "value": 33.1821328157539,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2016",
+        "value": 32.8650780972823,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2015",
+        "value": 32.5472990022299,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2014",
+        "value": 32.2288233408821,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2013",
+        "value": 31.9096789235237,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2012",
+        "value": 31.5898935604399,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2011",
+        "value": 31.2746502853309,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2010",
+        "value": 30.9042190810094,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2009",
+        "value": 30.5185314023263,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2008",
+        "value": 30.1438485921815,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2007",
+        "value": 29.7810426848684,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2006",
+        "value": 29.4309857146804,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2005",
+        "value": 29.0945497159107,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2004",
+        "value": 28.7726067228528,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2003",
+        "value": 28.4660287698,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2002",
+        "value": 28.1756878910456,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2001",
+        "value": 27.9028652096636,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2000",
+        "value": 27.6470407512523,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1999",
+        "value": 27.4081672842903,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1998",
+        "value": 27.1832515534447,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1997",
+        "value": 26.9696862023486,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1996",
+        "value": 26.7648638746349,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1995",
+        "value": 26.5661772139368,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1994",
+        "value": 26.3710188638872,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1993",
+        "value": 26.1767814681192,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1992",
+        "value": 25.9808576702657,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1991",
+        "value": 25.7797610905819,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      },
+      {
+        "indicator": {
+          "id": "SP.URB.TOTL.IN.ZS",
+          "value": "Urban population (% of total population)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1990",
+        "value": 25.5784017345035,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+      }
+    ]
+  ],
+  "metadata": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": "1000",
+      "total": 1
+    },
+    [
+      {
+        "id": "SP.URB.TOTL.IN.ZS",
+        "name": "Urban population (% of total population)",
+        "unit": "",
+        "source": {
+          "id": "2",
+          "value": "World Development Indicators"
+        },
+        "sourceNote": "Urban population refers to people living in urban areas as defined by national statistical offices. The data are collected and smoothed by United Nations Population Division.",
+        "sourceOrganization": "World Urbanization Prospects, United Nations (UN), uri: https://population.un.org/wup/, note: United Nations Population Division's World Urbanization Prospects, National definitions, publisher: UN Population Division",
+        "topics": [
+          {
+            "id": "19",
+            "value": "Climate Change"
+          },
+          {
+            "id": "16",
+            "value": "Urban Development "
+          }
+        ]
+      }
+    ]
+  ]
+}

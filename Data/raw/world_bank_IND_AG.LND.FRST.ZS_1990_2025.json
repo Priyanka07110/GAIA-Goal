@@ -1,0 +1,628 @@
+{
+  "retrieved_at": "2026-09-07T17:38:49.019426+00:00",
+  "request_url": "https://api.worldbank.org/v2/country/IND/indicator/AG.LND.FRST.ZS?format=json&source=2&date=1990%3A2025&per_page=1000",
+  "metadata_url": "https://api.worldbank.org/v2/indicator/AG.LND.FRST.ZS?format=json&source=2&per_page=1000",
+  "data": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1000,
+      "total": 36,
+      "sourceid": "2",
+      "lastupdated": "2026-07-13"
+    },
+    [
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2024",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2023",
+        "value": 24.5390304689576,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2022",
+        "value": 24.4494970049005,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2021",
+        "value": 24.3596944695764,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2020",
+        "value": 24.270228273336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2019",
+        "value": 24.1807620770956,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2018",
+        "value": 24.0909595417716,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2017",
+        "value": 24.0014933455312,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2016",
+        "value": 23.9116908102072,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2015",
+        "value": 23.8222246139668,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2014",
+        "value": 23.732623882093,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2013",
+        "value": 23.6430231502191,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2012",
+        "value": 23.5534224183453,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2011",
+        "value": 23.4638216864714,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2010",
+        "value": 23.3742209545976,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2009",
+        "value": 23.3101483591698,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2008",
+        "value": 23.246075763742,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2007",
+        "value": 23.1820031683142,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2006",
+        "value": 23.1179305728864,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2005",
+        "value": 23.0538579774586,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2004",
+        "value": 22.9897853820307,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2003",
+        "value": 22.9257127866029,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2002",
+        "value": 22.8616401911751,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2001",
+        "value": 22.7975675957473,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "2000",
+        "value": 22.7334950003195,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1999",
+        "value": 22.6106303330766,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1998",
+        "value": 22.4877656658337,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1997",
+        "value": 22.3649009985907,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1996",
+        "value": 22.2420363313478,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1995",
+        "value": 22.1191716641049,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1994",
+        "value": 21.996306996862,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1993",
+        "value": 21.873442329619,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1992",
+        "value": 21.7505776623761,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1991",
+        "value": 21.6277129951332,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "AG.LND.FRST.ZS",
+          "value": "Forest area (% of land area)"
+        },
+        "country": {
+          "id": "IN",
+          "value": "India"
+        },
+        "countryiso3code": "IND",
+        "date": "1990",
+        "value": 21.5048483278902,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  ],
+  "metadata": [
+    {
+      "page": 1,
+      "pages": 1,
+      "per_page": "1000",
+      "total": 1
+    },
+    [
+      {
+        "id": "AG.LND.FRST.ZS",
+        "name": "Forest area (% of land area)",
+        "unit": "",
+        "source": {
+          "id": "2",
+          "value": "World Development Indicators"
+        },
+        "sourceNote": "Forest area (% of land area) is the share of total land area that is under natural or planted stands of trees of at least 5 meters in situ, whether productive or not, and excludes tree stands in agricultural production systems (for example, in fruit plantations and agroforestry systems) and trees in urban parks and gardens.",
+        "sourceOrganization": "FAOSTAT, Food and Agriculture Organization of the United Nations (FAO), uri: https://www.fao.org/faostat/en/#data/RL, publisher: Food and Agriculture Organization of the United Nations (FAO)",
+        "topics": [
+          {
+            "id": "1",
+            "value": "Agriculture & Rural Development  "
+          },
+          {
+            "id": "19",
+            "value": "Climate Change"
+          },
+          {
+            "id": "6",
+            "value": "Environment "
+          }
+        ]
+      }
+    ]
+  ]
+}
