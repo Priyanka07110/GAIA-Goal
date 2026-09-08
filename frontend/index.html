@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gaia Goal | Earth intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><div class="brand-mark">◒</div><div><strong>GAIA GOAL</strong><small>Planet intelligence</small></div></div>
+      <nav aria-label="Main navigation">
+        <button class="nav-item active" data-view="overview"><span>⌂</span>Overview</button>
+        <button class="nav-item" data-view="explorer"><span>◈</span>Earth explorer</button>
+        <button class="nav-item" data-view="analytics"><span>▥</span>Analytics</button>
+        <button class="nav-item" data-view="catalogue"><span>▤</span>Dataset library</button>
+        <button class="nav-item" data-view="sdg"><span class="leaf">◢</span>SDG 13 · Climate Action</button>
+        <button class="nav-item" data-view="sources"><span>↗</span>Sources & method</button>
+      </nav>
+      <div class="sidebar-footer"><div class="rule"></div><p>A healthier planet<br>expands human possibility.</p><small>Saved snapshots are historical data, not a live feed.</small></div>
+    </aside>
+    <main class="main-content">
+      <header class="topbar"><div><p class="eyebrow">EARTH INTELLIGENCE DASHBOARD</p><h1 id="page-title">Explore our planet. Understand its change.</h1></div><div class="top-actions"><span class="mode-pill" id="mode-pill">Loading mode...</span><button class="icon-button" id="retry-button" title="Retry data connection">↻</button></div></header>
+      <div id="connection-banner" class="connection-banner hidden"></div>
+      <section id="view-overview" class="view active-view"></section>
+      <section id="view-explorer" class="view"></section>
+      <section id="view-analytics" class="view"></section>
+      <section id="view-catalogue" class="view"></section>
+      <section id="view-sdg" class="view"></section>
+      <section id="view-sources" class="view"></section>
+    </main>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>

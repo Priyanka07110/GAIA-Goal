@@ -41,10 +41,27 @@ Date: 7 September 2026
 - Verification so far consists of manual checks, not an automated test suite.
 
 ### Remaining
-- [ ] Combined dashboard endpoint.
-- [ ] Satellite imagery and geographical layers.
-- [ ] Frontend dashboard, charts and map.
-- [ ] AI integration grounded in available data.
-- [ ] Refresh workflow and further reliability checks.
-- [ ] End-to-end presentation testing.
-- [ ] Demo recording and presentation preparation.
+- [x] Presentation frontend at `/app/` with overview, explorer, analytics, catalogue, SDG 13 and sources views.
+- [x] Saved-data mode backed by the local snapshots in `Data/raw`; Atlas mode remains available when configured.
+- [x] Seven-category charts connected to existing API response shapes.
+- [ ] Satellite layer/date availability and visual rendering verification across demo locations.
+- [ ] Snow-cover layer verification and Himalayan glacier-outline subset.
+- [ ] AI integration grounded in available data (planned; no fake chat added).
+- [ ] Automated end-to-end presentation test suite.
+- [ ] Refresh workflow and live-feed support.
+
+## Prototype verification checklist
+
+The checklist is a fixed list of equally weighted prototype items. It describes implementation progress, not SDG achievement.
+
+| Item | Status | Evidence |
+|---|---|---|
+| Catalogue of 105 entries | Implemented and verified | `/categories`, `/datasets` |
+| Seven-category saved data coverage | Implemented and verified | Environmental endpoints |
+| Charts and source framing | Implemented and verified | `/app/` explorer and sources views |
+| Earth map controls | Implemented but not yet verified | Leaflet map and NASA GIBS layer |
+| NASA GIBS imagery validation | Implemented but not yet verified | Remote tile layer; requires visual/date checks |
+| SDG 13 alignment evidence | Implemented and verified | `/app/` SDG 13 view |
+| AI integration | Planned | No external model or credentials provided |
+| Presentation demo checks | Implemented but not yet verified | Manual browser pass remains |
+| Himalayan glacier outlines | Blocked / pending official subset | Not relabelled from sea ice or snow |
